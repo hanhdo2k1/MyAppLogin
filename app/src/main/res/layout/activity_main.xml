@@ -114,4 +114,13 @@
             android:src="@drawable/twitter"
             />
     </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/msv"
+        android:text="Đỗ Văn Hạnh - 21115053120115"
+        android:layout_below="@id/forgotpass"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
 </RelativeLayout>
